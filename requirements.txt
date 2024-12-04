@@ -4,5 +4,5 @@ seaborn
 matplotlib
 plotly
 numpy
-statsmodels.api
+statsmodels
 
